@@ -33,3 +33,38 @@ c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebApp\o
 C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.dll
 C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.pdb
 C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\DapperWebApp.dll.config
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\DapperWebApp.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\DapperWebApp.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\CommonServiceLocator.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\DapperWebData.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Newtonsoft.Json.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Net.Http.Formatting.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Web.Http.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Web.Http.WebHost.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Abstractions.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Configuration.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Container.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Interception.Configuration.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Interception.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.RegistrationByConvention.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.ServiceLocation.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\DapperWebData.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\CommonServiceLocator.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Abstractions.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Configuration.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Container.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Interception.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.Interception.Configuration.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.RegistrationByConvention.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Unity.ServiceLocation.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Newtonsoft.Json.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Net.Http.Formatting.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Web.Http.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\System.Web.Http.WebHost.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.pdb
+E:\Git\dapper\DapperWebApp\DapperWebApp\bin\Dapper.SimpleCRUD.xml
+E:\Git\dapper\DapperWebApp\DapperWebApp\obj\Debug\DapperWebApp.csprojResolveAssemblyReference.cache
+E:\Git\dapper\DapperWebApp\DapperWebApp\obj\Debug\DapperWebApp.dll
+E:\Git\dapper\DapperWebApp\DapperWebApp\obj\Debug\DapperWebApp.pdb

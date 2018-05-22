@@ -42,7 +42,7 @@ namespace DapperWebData.BusinessManagers
             using (var cn = _connectionFactory.GetConnection)
             {
                 entity.Id = Guid.NewGuid();
-                cn.Insert<TEntity>(entity);
+                cn.Insert<Guid>(entity);
 
                 return entity;
             }
@@ -61,6 +61,9 @@ namespace DapperWebData.BusinessManagers
         {
             using (var cn = _connectionFactory.GetConnection)
             {
+              //  var sql = "Delete from Customer Where Id = @Id ";
+              //  cn.Execute(sql,new {id = id});
+
                 cn.Delete<TEntity>(id);
             }
         }
