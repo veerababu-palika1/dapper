@@ -1,0 +1,16 @@
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\DapperWebData.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\DapperWebData.pdb
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\obj\Debug\DapperWebData.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\obj\Debug\DapperWebData.pdb
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\System.Data.Common.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\System.Data.SqlClient.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\obj\Debug\DapperWebData.csprojResolveAssemblyReference.cache
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.xml
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.Contrib.dll
+c:\users\bujji\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.Contrib.xml
+C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.Extension.dll
+C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.Mapper.dll
+C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.SimpleCRUD.dll
+C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\Users\BUJJI\documents\visual studio 2013\Projects\DapperWebApp\DapperWebData\bin\Debug\Dapper.SimpleCRUD.xml
